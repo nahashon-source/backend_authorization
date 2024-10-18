@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Workout A",
+        "type": "Cardio",
+        "duration": 30,
+        "intensity": "Medium",
+        "calories_burned": 250,
+        "date": "2024-10-15"
+    },
+    {
+        "id": 2,
+        "name": "Workout B",
+        "type": "Strength",
+        "duration": 45,
+        "intensity": "High",
+        "calories_burned": 400,
+        "date": "2024-10-16"
+    },
+    {
+        "id": 3,
+        "name": "Workout C",
+        "type": "Yoga",
+        "duration": 35,
+        "intensity": "Low",
+        "calories_burned": 150,
+        "date": "2024-10-20"
+    },
+    {
+        "id": 4,
+        "name": "Workout D",
+        "type": "HIIT",
+        "duration": 20,
+        "intensity": "High",
+        "calories_burned": 500,
+        "date": "2024-10-22"
+    },
+    {
+        "id": 5,
+        "name": "Workout E",
+        "type": "Pilates",
+        "duration": 40,
+        "intensity": "Medium",
+        "calories_burned": 300,
+        "date": "2024-10-23"
+    },
+    {
+        "id": 6,
+        "name": "Workout F",
+        "type": "CrossFit",
+        "duration": 60,
+        "intensity": "High",
+        "calories_burned": 600,
+        "date": "2024-10-24"
+    },
+    {
+        "id": 7,
+        "name": "Workout G",
+        "type": "Cycling",
+        "duration": 45,
+        "intensity": "High",
+        "calories_burned": 450,
+        "date": "2024-10-25"
+    },
+    {
+        "id": 8,
+        "name": "Workout H",
+        "type": "Running",
+        "duration": 30,
+        "intensity": "Medium",
+        "calories_burned": 350,
+        "date": "2024-10-26"
+    }
+]
